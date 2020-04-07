@@ -1,0 +1,28 @@
+{
+  "name": "uppy-overlay",
+  "version": "1.0.0",
+  "description": "Add overlay on image before upload.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atsawin/uppy-overlay.git"
+  },
+  "keywords": [
+    "uppy",
+    "uppy-plugin"
+  ],
+  "author": "Atsawin Chaowanakritsanakul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atsawin/uppy-overlay/issues"
+  },
+  "homepage": "https://github.com/atsawin/uppy-overlay#readme",
+  "dependencies": {
+    "@uppy/core": "^1.6.0",
+    "@uppy/utils": "^2.1.0",
+    "compressorjs": "^1.0.5"
+  }
+}
